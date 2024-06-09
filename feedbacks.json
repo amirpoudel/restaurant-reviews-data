@@ -1,0 +1,644 @@
+[
+    {
+        "_id": "665299b0d2843f26aa7b83ba",
+        "feedback": "Nun ali dherai vayo momo ma .. testing ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66529c72d2843f26aa7b83bf",
+        "feedback": "I am so impressed with the prompt service. Dami",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66529e2fd2843f26aa7b83c1",
+        "feedback": "Momo thikai thyo....ali piro thyo chatni.... environment thikai thikai thyo.....smoke drink garne khane sabai eutai ma vayera hola ali smoke smell aathyo",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66529e77d2843f26aa7b83c3",
+        "feedback": "Thikai thyo khana ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66529f06d2843f26aa7b83c5",
+        "feedback": "foodmandu bata order gareko biryani offer ko time thiyo tei vayarw hola testo mitho thiyana...like eti price ma estai auxa jasto ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66529f6ed2843f26aa7b83c7",
+        "feedback": "Thakali chicken set khana mitho xa, environment ni ekdam peace family friends sanga dinner aauna ekdam fit hunxa",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66529f9ed2843f26aa7b83c9",
+        "feedback": "Jhol momo ekdam mitho xa and staff pani friendly xa ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652a0bdd2843f26aa7b83cc",
+        "feedback": "Khana ekdam ramro. Manchhe dherai huda  customer service ramro vayena.Price as compared to others and quality ali badhi bhayo.",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6652a18dd2843f26aa7b83cf",
+        "feedback": "Kati mitho khana xa yar yo restaurant ma.",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652a1ead2843f26aa7b83d1",
+        "feedback": "Mitho chaina....",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652a2d7d2843f26aa7b83d3",
+        "feedback": "Saab thik cha",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652a30ad2843f26aa7b83d5",
+        "feedback": "Tasty food and beautiful ambience ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652a42ad2843f26aa7b83d7",
+        "feedback": "I recently had the of break fast at white Revit and its awesome food and service.",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652a4eed2843f26aa7b83d9",
+        "feedback": "Waiter le time ma response garenan. Kam piro bhaneko piro ra badhi chillo order aaepyo.",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652a611d2843f26aa7b83db",
+        "feedback": "Paratha thikai thiyo",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6652a6e5d2843f26aa7b83dd",
+        "feedback": "Decoration dharai ramro ra service pane dharai ramro theyo ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652b0cbd2843f26aa7b8406",
+        "feedback": "Kasto man ☺️mohit waiter yrr",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6652b0dfd2843f26aa7b8408",
+        "feedback": "Pani ko taste man parena",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b139d2843f26aa7b840a",
+        "feedback": "Veg khana rakhnai birse xa jasto x. Veg momo lai hepeko jasto x",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b1bdd2843f26aa7b8411",
+        "feedback": "यो yes cafe मा त केही राम्रो पाइदैन है साथि",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b62dd2843f26aa7b8442",
+        "feedback": "Chiya ma chini thorae thiyo..tara maile khaye",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6652b65ad2843f26aa7b8445",
+        "feedback": "Masu bhat best cha hai ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652b66dd2843f26aa7b844a",
+        "feedback": "mero pani chiya ma chini thorae thyo..tara maile alikati thapera khaye\n....from kapil dev belbase",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6652b73dd2843f26aa7b845a",
+        "feedback": "chowmin khada sauce na diyena",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b854d2843f26aa7b845f",
+        "feedback": "Masu thapnu payena ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b866d2843f26aa7b8461",
+        "feedback": "Masu chaiyeo ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b8c7d2843f26aa7b8464",
+        "feedback": "Mitho xaina ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652b8ced2843f26aa7b8466",
+        "feedback": "Khattam xa ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652bb2fd2843f26aa7b846f",
+        "feedback": "Yeti namitho pakauna laj lagdaina ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652bb56d2843f26aa7b8471",
+        "feedback": "Masu mitho xaina \n-key_eyeyes",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652bc19d2843f26aa7b847b",
+        "feedback": "Khana ma matra bhat ra dal xa roti ko option nai xain so roti khane le khana pako xain \nAdd garnus la ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652bd91d2843f26aa7b8484",
+        "feedback": "Swad ma mitho thyo tara chillo piro ali dherai vayo",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652cdedd2843f26aa7b848c",
+        "feedback": "Sabai ramro thyo but ali ali raining le garda bore pani vayo babal majja pani aayo.",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652ce59d2843f26aa7b848e",
+        "feedback": "Yeha ko tarkari samosa sanga chiya dami xa",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652ce98d2843f26aa7b8490",
+        "feedback": "Aaja dal mitho theyana",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6652ceccd2843f26aa7b8492",
+        "feedback": "yeta dateing ko lagi thau thik xaina cheya ne metho theyana",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652d1f7d2843f26aa7b8495",
+        "feedback": "Momo mitho xa",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652e191d2843f26aa7b8499",
+        "feedback": "waiter le dherai nai dhila garyo khana lyauna. aru services haru thikai tyo",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652e247d2843f26aa7b84a5",
+        "feedback": "pani tato raixa tongue polyo ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652f46dd2843f26aa7b84b1",
+        "feedback": "malai waiter ko behaviour mann parena .",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6652fd4fd2843f26aa7b84ba",
+        "feedback": "Ham Burger was so good.",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6652ff4cd2843f26aa7b84bc",
+        "feedback": "rajma thik xaina. dherai patalo jhol vayo ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6653043bd2843f26aa7b84be",
+        "feedback": "Mitho thyo Tara Ali badhi burnt smell aairaakheko thyo",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "665308a3d2843f26aa7b84c0",
+        "feedback": "Asti koteshowr ko hotel ma mo:mo khako mitho ta thyo tara jhol chai ekdam piro thiyo.",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66530e46d2843f26aa7b84c2",
+        "feedback": " Mitho thiyo yekdam dheraiiiiiiiiiiiiiiii",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66530ea0d2843f26aa7b84c4",
+        "feedback": "Piro naii thiyena ani nun pani thiyena tara khanai paryo ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66530f11d2843f26aa7b84c6",
+        "feedback": "Paisa ali dheraii thiyo tara mitho ni thiyo ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66530f75d2843f26aa7b84c8",
+        "feedback": "chyaa kasto namitho khana, paisa mtara kharcha!",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6653102bd2843f26aa7b84ca",
+        "feedback": "chowmen khako, banda ma chowmein rakhera diyo!",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66531088d2843f26aa7b84cc",
+        "feedback": "esti hakka noodles khana gayeko chutya le last piro banayera diyo xya.... Tara dammi chae dammmi theo haiii",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "665310f2d2843f26aa7b84ce",
+        "feedback": "yaha ko jasto pizza maile aaja samma khako thina, bhagya ma lekhera aaunu parcha yaha ko pizza khana ta!",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6653110ed2843f26aa7b84d0",
+        "feedback": "thait teri matokney, kasto deko burger magako pauroti khuwayo\npizza magako sukeko roti mah sause halera khanu andira ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6653111ad2843f26aa7b84d2",
+        "feedback": "muji khaja khana gako the Bashi khaja diyo. yesto riss uthya xa muji dekhi, tesko pasal aago lai dinu jasto vako xa..",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6653128ad2843f26aa7b84d4",
+        "feedback": "Khana mitho thiyo ani price pani afforable thiyo",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "665312ced2843f26aa7b84d6",
+        "feedback": "Order gariyo ko aanusar khana ko quantity ra taste teti ramro thiyena",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6653199dd2843f26aa7b84d8",
+        "feedback": "The momo seemed bit undercooked ....and the achar was too salty,",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "665319aad2843f26aa7b84da",
+        "feedback": "hamile cheese-and-chicken momo ra keema noodles as suggested mitho hunchha vanera expect garera gako thiyeu but tyo okay type samma ko close pani payenam. New place",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66531a10d2843f26aa7b84e6",
+        "feedback": "aaja try gareko bacon and fruit platter chai thikai nai thiyo vannu parda, and addition of watermelon juice was okay okay for my personal taste",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531a29d2843f26aa7b84ec",
+        "feedback": "baneshwor ko keema noodles is the best one ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531a47d2843f26aa7b84f0",
+        "feedback": "hostel ko daal khada pani vanda patalo vayera nilina pani niliyena ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66531bafd2843f26aa7b84f2",
+        "feedback": "asti khako momo lastai bhanda ni lastai oily thiyo , ani maida khacho poni thiyo that was worst for me .  ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66531d0bd2843f26aa7b84f5",
+        "feedback": "place hygienic xa. momos are super juicy. ambience is average ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531d25d2843f26aa7b84f7",
+        "feedback": "today we went to a place where we ate tea and lassi. The place was fun and comfy and we could play board games as well . it was a fun place and good experience overall",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531d46d2843f26aa7b84f9",
+        "feedback": "i didn't like the customer service.",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66531d5cd2843f26aa7b84fb",
+        "feedback": "aaja ko thau chai best nai lagyo malai tya ho service atti nai wow thiyo, order gareko item poni time mai lyaidinu bhathyo ani tya ko drinks poni expectation anusarnai bhayo ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531d62d2843f26aa7b84fd",
+        "feedback": "j hos yehako jhol momo chai winter time ko lagi best nai chha hai",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531da2d2843f26aa7b84ff",
+        "feedback": "teha khana jada laphing was best with best spices but keema noodles chai over cooked thiyo, hope that was only one time ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66531da8d2843f26aa7b8501",
+        "feedback": "the manager is very handsome and well speaking\n",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531e03d2843f26aa7b8503",
+        "feedback": "yo place ma chai mero favorite till now vaneko chai lemon tea with ginger and honey ho hai ",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66531ed6d2843f26aa7b8505",
+        "feedback": "maple glazee chicken thikai  lagyo from my side . ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66531f8bd2843f26aa7b8507",
+        "feedback": "chicken momo baneko malai buff ko momo deyo ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66531fb3d2843f26aa7b8509",
+        "feedback": "matcha latte chai khnai sakina , literally matcha latte malai man parthyo tara tya khaya bata tw feri khanxu jasto ta lagdaina  ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66532290d2843f26aa7b850b",
+        "feedback": "chowmein ma cockroach thyo xya",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "665322c9d2843f26aa7b850d",
+        "feedback": "momo ma musa ko tooth thiyo",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "665341e9d2843f26aa7b8511",
+        "feedback": "Chicken BBQ  pizza kati mithoooo",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6653457bd2843f26aa7b8514",
+        "feedback": "khasei testo mitho ta lagena tara cost anusar thikai ni ho, ani waiter haruko beura chai kasto ris uthdo hou",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66534581d2843f26aa7b8517",
+        "feedback": "nice ambiance but waiter le order gareko chicken pizza ko satta cheese pizza lyaidiyo",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6653458fd2843f26aa7b8519",
+        "feedback": "mitho raixa",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6653459fd2843f26aa7b851b",
+        "feedback": "xyaaaaaaaaaa k ho testo khana ko taste",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "665347c5d2843f26aa7b851d",
+        "feedback": "ramro raixa sabai kura tara alik cleanliness ma dhyan dinu paryo",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66534c6ad2843f26aa7b8521",
+        "feedback": "Taste of food is good in s cafe but not hygienic \nLike chowmien ma thkai thyo but kaile achar ma smell aaucha ta kaile noodle ma otherwise all good but their is no hygiene in their cafe tyo maintain garnu paryo ",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66534c7ed2843f26aa7b8524",
+        "feedback": "I recently visited Sanepa Delight and was thoroughly impressed by their food and services. The star of the evening was undoubtedly the Chicken C Momo. The dumplings were perfectly cooked, with a soft, tender wrapper and a filling that was flavorful and juicy. The blend of spices in the chicken was just right, making each bite a delightful experience",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66537539d2843f26aa7b8529",
+        "feedback": "aauta naya thaau dekhera khana gako the, ambience chai babbal lagyo. aani tespaxi chiya ,churot magaye . churot ta yekkai xin mai layediyio, tara chita ta jhandai 1 hrs layo haau layedina ni. tei mathi fateko dudh ko chiya jastai thiyi. xyaa muji bekkar chiya khaye jastai lagya thiyo. tyo din dekhi tya gako xaina chiya khana lai.Tara waiter chai last sexyy thiyo haai tyo resturant ko. staff matra sexyy rakhera hunna raixa , khane kura ni mitho banauna paryo . ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66537d5bd2843f26aa7b8530",
+        "feedback": "seat ma basi sake paxi pani, order lina ko lagi kunai response nai aayena. Afai gayera order diyera aaye. Ali table haru messy thiyo, safa gardinu vanna paryo. Coffee serve garnnai janenan. ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66537dbcd2843f26aa7b8532",
+        "feedback": "Table ma napkin ni thiyena, order place huna nai dherai time lagyo. Cafe chalaunai na janne. Seats na vayera divide gari basna parya thiyo arko manxe sanga. ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66537e13d2843f26aa7b8534",
+        "feedback": "Thikai thiyo Tara Ali badi bhid thiyo, ubhiyera khaja khanu paryo. Dustbin haru full vaisakya vayera fohor falna ni garo vayo",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66537e84d2843f26aa7b8536",
+        "feedback": "Family dinner ko lagi ramrai lagyo. Item dherai na vayeta pani mitho chai thiyo. Ali late ta vayo order place huna but pratikxya ko fal mitho nai thiyo. Waiter haru well behaved thiye ra sabbai kura time mai gariraka thiye.",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6653fa59d2843f26aa7b8546",
+        "feedback": "Kahile pani tyo sirupate rainbow trout resturant maa najanu hai. tyo khate resturant ho, khali jaad khanaeharuali value dinchha, chorharu",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6653fa96d2843f26aa7b8548",
+        "feedback": "maile coke magako, fridge ko coke chhaina re, tara beer khanelai chahi jati pani chiso dira tyo",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "6653fabed2843f26aa7b854a",
+        "feedback": "yo chahi best resturant ho, khana pani raamro, sasto pani",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "665400c7d2843f26aa7b8553",
+        "feedback": "The Cost Price Of Samosa Is Expensive. I Usually Buy Samosa At Price Rs.20.",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66540218d2843f26aa7b8558",
+        "feedback": "The Items Are Not Tasty And Well Maintain",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66540250d2843f26aa7b855a",
+        "feedback": "The Price is balanced with items quality",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "665467dfd2843f26aa7b8564",
+        "feedback": "nice",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "665469eed2843f26aa7b8569",
+        "feedback": "Sabai kura thikai lagyo. \nPrice ali besi lagyo malai , aru ta thik xa",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66547445d2843f26aa7b856f",
+        "feedback": "Ma coffee shop bhitra basdai garda ra coffee lida ko tyo environment ma ramilo lagxa",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "665474b8d2843f26aa7b8571",
+        "feedback": "Mailey khako khaja teti mitho theyena ra service ni teti ramro theyena",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "666526227cb6b6e3693b3b50",
+        "feedback": "Awesome viewq",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "6665276d7cb6b6e3693b3b84",
+        "feedback": "Thakali khana mitho thiyo but pheri aayara kham jasto chahi vayana",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "6665278e7cb6b6e3693b3b87",
+        "feedback": "77777777",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "666527ee7cb6b6e3693b3b89",
+        "feedback": "¹²³⁴⁵⁶⁷⁸⁹1",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "666527fb7cb6b6e3693b3b8b",
+        "feedback": "khana paxi ko lassi jasto . apple haleko thik thiyo",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "666528957cb6b6e3693b3b8d",
+        "feedback": "dinner ko laagi enviroment teti ramro lagena . ali kati crowd vayo badi ",
+        "label": "negative",
+        "__v": 0
+    },
+    {
+        "_id": "66652cd77cb6b6e3693b3b8f",
+        "feedback": "Hospitality was very impressive.Ambience was also very good and attractive. And the food was best.",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66652cfa7cb6b6e3693b3b91",
+        "feedback": "Mithaii thyo",
+        "label": "positive",
+        "__v": 0
+    },
+    {
+        "_id": "66652d077cb6b6e3693b3b93",
+        "feedback": "Thikaii thyo",
+        "label": "neutral",
+        "__v": 0
+    },
+    {
+        "_id": "66652d6c7cb6b6e3693b3b95",
+        "feedback": "Service was quick and the menu item ni ramro thyoo ani taste was natural hai",
+        "label": "positive",
+        "__v": 0
+    }
+]
